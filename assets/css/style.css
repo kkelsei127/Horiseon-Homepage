@@ -7,7 +7,7 @@
     margin: 0;
 }
 
-body {
+body{
     background-color: #d9dcd6;
 }
 
@@ -92,7 +92,6 @@ main {
 
 .service img {
     max-height: 200px;
-}
 
 h2 {
     font-size: 36px;
