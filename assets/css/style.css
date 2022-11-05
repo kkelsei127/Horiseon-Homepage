@@ -1,6 +1,6 @@
 /* GENERAL STYLES */
 
-/*This is a universal selector*/
+/*universal selector*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -12,7 +12,6 @@ body {
 }
 
 /* HEADER */
-
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +19,7 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -47,18 +46,12 @@ li {
 }
 
 /* TEXT STYLES */
-
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* HERO DIV WITH BACKGROUND IMAGE */
-
 .hero {
     height: 800px;
     width: 100%;
@@ -68,8 +61,15 @@ p {
     background-position: center;
 }
 
-/* FLOATS */
+/* MAIN */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 16px;
+}
 
+/* FLOATS */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -80,19 +80,28 @@ p {
     margin-left: 25px;
 }
 
-/* MAIN */
+/* SERVICES SECTIONS */
+.service {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+.service img {
+    max-height: 200px;
+}
+
+h2 {
+    font-size: 36px;
+    padding: 0 0 20px 0;
 }
 
 /* BENEFITS ASIDE */
-
 .benefits {
     margin-right: 20px;
-    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
@@ -100,6 +109,10 @@ main {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+
+.benefit {
+    margin-bottom: 32px;
     color: #ffffff;
 }
 
@@ -114,35 +127,15 @@ h3 {
     max-width: 150px;
 }
 
-/* SERVICES SECTIONS */
-
-.service {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.service img {
-    max-height: 200px;
-}
-
-.service h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 /* FOOTER */
-
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    font-size: 20px;
 }
 
-footer h2 {
-    font-size: 20px;
+footer p{
+    font-size: 16px;
 }
