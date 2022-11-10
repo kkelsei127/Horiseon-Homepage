@@ -40,6 +40,9 @@ The following image shows the web application's appearance and functionality:
 
 ![deployedSiteBottom](./assets/horiseon.png)
 
+## Link to deployed site
+https://kkelsei127.github.io/Horiseon-Homepage/#social-media-marketing
+
 ## License
 
 No Licenses were used
