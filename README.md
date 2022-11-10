@@ -42,4 +42,3 @@ The following image shows the web application's appearance and functionality:
 
 No Licenses were used
 
-
