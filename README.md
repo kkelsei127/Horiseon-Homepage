@@ -1,5 +1,3 @@
-README
-
 # Horiseon | Homepage
 
 ## Description
@@ -43,3 +41,4 @@ The following image shows the web application's appearance and functionality:
 ## License
 
 No Licenses were used
+
