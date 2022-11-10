@@ -36,7 +36,9 @@ The following image shows the web application's appearance and functionality:
 
 ## Screenshots
 
-![deployedSite](./assets/horiseon.png)
+![deployedSiteTop](./assets/horiseon-2.png)
+
+![deployedSiteBottom](./assets/horiseon.png)
 
 ## License
 
