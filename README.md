@@ -1,20 +1,42 @@
-# Horiseon
+# Horiseon | Homepage
 
 ## Description
 
-This weeks challenge was to take a prebuilt website and code improve it with the tools we learned the over the previous weeks. I was able to improve the code by increasing its accessibility and condensing down repetitive code. Additionally, I checked all the links and ensured they were working and in proper working order. I changed the CSS to ensure it followed the HTML Semantic styling.
+This weeks challenge was to take a prebuilt website and code improve it with the following user story:
 
-## Installation
+## User Story
 
-n/a
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
-## Usage
+## Acceptance Criteria
 
-This will serve as a referrence for a static website. It is intended for client to use as a point of contact and synopsis for the services they offer.
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
 
-## Credits
+## Mock-Up
 
-n/a
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/01-html-css-git-homework-demo.png)
+
+## Screenshots
+
+![deployedSite](./assets/horiseon.png)
 
 ## License
 
