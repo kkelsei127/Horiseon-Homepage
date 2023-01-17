@@ -28,6 +28,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Usages
+Click around and enjoy a professional static website
+
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
