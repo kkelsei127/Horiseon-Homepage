@@ -31,17 +31,11 @@ THEN I find a concise, descriptive title
 ## Usages
 Click around and enjoy a professional static website
 
-## Mock-Up
-
+## Screenshots
 The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/01-html-css-git-homework-demo.png)
 
-## Screenshots
-
-![deployedSiteTop](./assets/horiseon-2.png)
-
-![deployedSiteBottom](./assets/horiseon.png)
 
 ## Link to deployed site
 https://kkelsei127.github.io/Horiseon-Homepage/#social-media-marketing
